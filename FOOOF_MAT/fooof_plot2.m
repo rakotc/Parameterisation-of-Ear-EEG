@@ -1,3 +1,7 @@
+%% Camille Rakotoranto, April 2025, MATLAB R2024b, The MathWorks Inc., Natick, MA, USA
+%% This script was added to Donoghue et al. (2020)'s implementation of FOOOF to MATLAB 
+% to plot two FOOOF-adjusted PSDs on one figure.
+
 function fooof_plot2(fooof_results_ec, fooof_results_eo, log_freqs)
 
     %% Data Checking
