@@ -2,6 +2,7 @@
 This repository provides MATLAB scripts for the application of FOOOF (Donoghue et al., 2020) to ear-EEG in the context of a thesis. The aim of the thesis was to characterise the periodic and aperiodic activity of single-channel ear-EEG.
 
 For adequate functioning of the scripts and correct analysis, the scripts should be run in the following order:
+
       1.	PreProcessing_AlphaBlock.mlx and PreProcessing_RestingState.mlx
       
       2.	FOOOF_tuning.mlx
