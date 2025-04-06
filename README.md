@@ -3,8 +3,11 @@ This repository provides MATLAB scripts for the application of FOOOF (Donoghue e
 
 For adequate functioning of the scripts and correct analysis, the scripts should be run in the following order:
       1.	PreProcessing_AlphaBlock.mlx and PreProcessing_RestingState.mlx
+      
       2.	FOOOF_tuning.mlx
+      
       3.	FOOOFImplementation.mlx
+      
       4.	PostFOOOF_StatisticalAnalysis.mlx
 
 Moreover, information regarding each script (aim, function, steps) is provided within the files, prior to the code. Likewise, all scripts are commented.
